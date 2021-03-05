@@ -1,0 +1,7 @@
+git init
+git add *
+git commit -m "init gshop"
+关联远程仓库
+推送至远程仓库
+git push origin master
+
