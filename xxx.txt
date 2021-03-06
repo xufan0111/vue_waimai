@@ -4,4 +4,4 @@ git commit -m "init gshop"
 关联远程仓库
 推送至远程仓库
 git push origin master
-
+git@github.com:xufan0111/vue_waimai.git
